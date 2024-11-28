@@ -11,7 +11,7 @@ My current skill is Spring Boot, Vaadin, Quarkus, Laravel, Codeigniter, and Word
 * ✉️  You can contact me at [panji\_palguna@outlook.co.id](mailto:panji_palguna@outlook.co.id)
 * 🚀  I'm currently working on [PT Dimata Sora Jayate](http://dimata.com)
 * 🧠  I'm learning Spring Boot and Quarkus
-* 🤝  I'm open to collaborating on Interesting project and business oportunitu
+* 🤝  I'm open to collaborating on Interesting project and business oportunities
 
 ### Skills
 
